@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72aef280638264e45aece74b03f8da07, type: 3}
+  m_Name: Bat
+  m_EditorClassIdentifier: 
+  weaponPrefab: {fileID: 1534278817642606, guid: 474fdf19be0687242b8a084734655fca, type: 3}
+  animatorOverride: {fileID: 22100000, guid: 3589a598edcd2fb4fb48e21f9ec28227, type: 2}
+  damage: 5
+  attackRate: 1
+  positionOffset: {x: 0, y: 0, z: 0}
+  scaleOffset: {x: 0, y: 0, z: 0}
